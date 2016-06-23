@@ -119,7 +119,7 @@ gen-external-apklibs/com.facebook.fresco_imagepipeline_{版本号}/jni
 1. 从菜单 “文件(File)”，选择导入(Import)
 2. 展开 Android, 选择 "Existing Android Code into Workspace"， 下一步。
 3. 浏览，选中刚才解压的的文件中的 frescolib 目录。
-4. 这5个项目应该都会被添加到工程： drawee， fbcore， fresco， imagepipeline， imagepipeline-okhttp。请确认前4个项目一定是被选中的。点击完成。
+4. 这5个项目应该都会被添加到工程： drawee， fbcore， fresco， imagepipeline，imagepipeline-base， imagepipeline-okhttp。请确认前5个项目一定是被选中的。点击完成。
 5. 右键，项目，选择属性，然后选择 Android。
 6. 点击右下角的 Add 按钮，选择 fresco，点击 OK，再点击 OK。
 
